@@ -5,7 +5,6 @@ import { Link } from 'react-scroll';
 
 
 export const Footer = () => {
-    const [arrowChange, setarrowChange] = useState(true)
   return (
     <Container>
         <Wrapper>
@@ -69,9 +68,8 @@ export const Footer = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum 
         </Last>
          <ArrowToTop to='Hero' smooth = "true">
-            {
-                arrowChange ?  <BsArrowUpSquare /> :  <BsBoxArrowDown />
-            }
+             <BsArrowUpSquare />
+             {/* <BsBoxArrowDown /> */}
         </ArrowToTop> 
     </Container>
   )
@@ -81,7 +79,7 @@ const ArrowToTop = styled(Link)`
     color: black;
     position: fixed;
     right: 60px;
-    font-size: 50px;
+    font-size: 40px;
     bottom: 25px;
     cursor: pointer;
     transition: all 350ms;
