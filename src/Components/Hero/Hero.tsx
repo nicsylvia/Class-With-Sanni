@@ -4,7 +4,7 @@ import techBg from "../Assets/techBg.jpg";
 
 const Hero = () => {
   return (
-        <Container>
+        <Container id='Hero'>
             <HeroImage>
                 <img src={techBg} alt="" />
             </HeroImage>
@@ -33,6 +33,61 @@ const Hero = () => {
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
                 </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero esse soluta eos veritatis! Odit totam dolorem quibusdam in vero. Voluptas deleniti eveniet ad quidem? Blanditiis doloremque maiores nisi doloribus perspiciatis!
+                </p>
+                 
             </div>
         </Container>
   )
