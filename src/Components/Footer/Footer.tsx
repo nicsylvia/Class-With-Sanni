@@ -65,7 +65,7 @@ export const Footer = () => {
          
         </Wrapper>
         <Last>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum 
+            Developed by @sylvia, under the guidance of Mr Sanni Damilola Fortune.
         </Last>
          <ArrowToTop to='Hero' smooth = "true">
              <BsArrowUpSquare />

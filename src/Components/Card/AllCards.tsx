@@ -11,12 +11,15 @@ const AllCards = () => {
     <div>
         <Container>
             <h1>View My Stacks</h1>
-            <p>Check out the Stacks i use to be a Global Talent!</p>
+            <h3>Check out the Stacks i use to be a Global Talent!</h3>
+            <p>
+            MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites.
+            </p>
             <Wrap>
-                <SingleCard description= "#00800099"  stacks='MONGODB' img={mernstack}/>
-                <SingleCard description = "#ff00003e"  stacks='EXPRESS' img={mern2}/>
-                <SingleCard description= "#00000084"  stacks='REACT' img={mern3} />
-                <SingleCard description= " #ffff0058"  stacks='NODE' img={mern4} />
+                <SingleCard description= " MongoDB, a NoSQL database management system"  stacks='MONGODB' img={mernstack}/>
+                <SingleCard description = "ExpressJS, a backend web application framework for NodeJS."  stacks='EXPRESS' img={mern2}/>
+                <SingleCard description= "ReactJS, a JavaScript library for developing UIs based on UI components"  stacks='REACT' img={mern3} />
+                <SingleCard description= "  NodeJS, a JS runtime environment, it enables running JavaScript code outside the browser"  stacks='NODE' img={mern4} />
             </Wrap>
         </Container>
     </div>
